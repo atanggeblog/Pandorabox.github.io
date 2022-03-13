@@ -1,3 +1,3 @@
-# alexgo.io
+# pandorabox.icp
 
-ALEXGO website, hosted on Webflow
+Pandora box website, hosted on Dfinity!
